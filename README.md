@@ -2,6 +2,8 @@
 
 This is a simple TV show ticket booking app that allows users to view TV show details and book tickets for their favorite shows.
 
+## Watch the Demo [Live](https://booking-tickets.netlify.app/)
+
 ## Features
 
 - View a list of TV shows with their details.
